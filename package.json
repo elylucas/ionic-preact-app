@@ -26,7 +26,7 @@
     "jest": "^21.2.1",
     "jest-preset-preact": "^1.0.0",
     "per-env": "^1.0.2",
-    "preact-cli": "^3.0.0-rc.6",
+    "preact-cli": "^3.5.1",
     "preact-render-spy": "^1.2.1"
   },
   "dependencies": {
